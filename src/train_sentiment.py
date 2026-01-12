@@ -1,3 +1,14 @@
+"""
+Basic Sentiment Analysis Using Machine Learning
+
+This script demonstrates a basic workflow for sentiment analysis:
+- Text preprocessing
+- Feature extraction
+- Model training
+- Evaluation
+
+This code is intended for educational and research foundation purposes.
+"""
 import pandas as pd
 import pickle
 import re
@@ -86,3 +97,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
